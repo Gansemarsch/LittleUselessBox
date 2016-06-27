@@ -80,6 +80,9 @@ void loop() {
     }
   }
   digitalWrite(12, 1);
+  digitalWrite(13, 1); // For Debugging
   delay(300);
   digitalWrite(12, 0);
+  digitalWrite(13, 0); //For Debugging
+  delay(300);
 }
