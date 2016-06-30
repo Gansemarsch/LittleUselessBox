@@ -1,5 +1,5 @@
 # LittleUselessBox
-A tiny take on the useless box. Is an exersize in using the AVR sleep functions to reduce current draw and extend battery life.
+A tiny take on the useless box. Is an exercize in using the AVR sleep functions and smart circut design to reduce current draw and extend battery life.
 
 ##Parts list
 * Arduino Pro Mini
