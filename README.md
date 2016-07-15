@@ -1,6 +1,8 @@
 # LittleUselessBox
 A tiny take on the useless box. Is an exercize in using the AVR sleep functions and smart circut design to reduce current draw and extend battery life.
 
+![circut](IMG_20160715_152736811.jpg)
+
 ##Parts list
 * Arduino Pro Mini
 * Self Resettable Switch (A8GS-1105)
@@ -14,5 +16,5 @@ A tiny take on the useless box. Is an exercize in using the AVR sleep functions 
 * Current Limiting Resistor (100Ω)
 
 ##Circut
+![circut](IMG_20160715_155819596.jpg)
 
-##Video
